@@ -1,0 +1,26 @@
+{
+  "name": "html-date-polyfill",
+  "version": "0.1.0",
+  "description": "Polyfill for <input type=\"date\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spetnik/html-date-polyfill.git"
+  },
+  "keywords": [
+    "html5",
+    "date",
+    "polyfill",
+    "input",
+    "datepicker"
+  ],
+  "author": "Aaron J Spetner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spetnik/html-date-polyfill/issues"
+  },
+  "homepage": "https://github.com/Spetnik/html-date-polyfill#readme"
+}
